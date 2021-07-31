@@ -1,0 +1,7 @@
+.githubpage{
+    display: flex;
+    align-items: center;
+}
+.githubpage button{
+    color: blue
+}

@@ -1,0 +1,11 @@
+.githubpage{
+    margin-top: 10px;
+    padding:5px;
+    border:1px solid black;
+}
+.githubuser{
+    border: 1px solid black;
+    display: flex;
+    align-items: row;
+
+}
